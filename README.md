@@ -27,8 +27,8 @@ This is a web-based application that provides a platform for both admin and regu
 - OMDB API Integration
 - Maven
 
-### Frontend
-- Angular 17(not finished)
+### Frontend(not finished)
+- Angular 17
 - Angular Material
 - TypeScript
 - SCSS
