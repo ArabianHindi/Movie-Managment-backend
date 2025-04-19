@@ -1,8 +1,5 @@
 # Movie-Managment-backend
 This is a web-based application that provides a platform for both admin and regular users to manage and view movies. It integrates with the OMDB API to fetch movie details and allows admins to curate a custom movie list for users.
-# Movie Application
-
-A full-stack movie application built with Spring Boot and Angular that allows users to browse, search, and rate movies. The application features user authentication, movie management, and an admin dashboard.
 
 ## Features
 
