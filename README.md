@@ -20,7 +20,7 @@ This is a web-based application that provides a platform for both admin and regu
 
 ### Backend
 - Java 17
-- Spring Boot 3.2.3
+- Spring Boot 3.4.4
 - Spring Security with JWT
 - Spring Data JPA
 - PostgreSQL
